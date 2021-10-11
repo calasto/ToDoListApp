@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660776382177",
+    "project_id": "todolistapp-6181d",
+    "storage_bucket": "todolistapp-6181d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660776382177:android:58c6d7bb424893c20cd1a0",
+        "android_client_info": {
+          "package_name": "com.callumstorey.todolistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660776382177-fa4ddlea5unhr5mv0f2luonuj77j3vc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATN8XduayH0SdQEmm24EcvuKTEjX2ecJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660776382177-fa4ddlea5unhr5mv0f2luonuj77j3vc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
